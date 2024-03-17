@@ -16,7 +16,7 @@ In the bustling world of travel, finding the perfect hotel that aligns with your
 - Python 3.x
 - Python libraries: `Requests`, `csv`, `io`,`PIL`, `tkinter`, `Customtkinter`, `time`.
 - Internet: The app utilizes hotel data from GitHub. Ensure you have an internet connection for the app to fetch data.
-- Dataset link: "https://raw.githubusercontent.com/sachinnpraburaj/Intelligent-Travel-Recommendation-System/master/tripadvisor_hotel_output/hotel_info_dedup.csv"
+- Dataset link: (https://github.com/sachinnpraburaj/Intelligent-Travel-Recommendation-System/blob/master/tripadvisor_hotel_output/hotel_info_dedup.csv)
 
 
 ## Installations to be Made
